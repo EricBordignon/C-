@@ -10,7 +10,7 @@ namespace InverseOrder
             Console.Write("Enter a word: ");
             string word = Console.ReadLine();
 
-            for(int i = word.Length; i > 0; i--)
+            for(int i = word.Length - 1; i >= 0; i--)
             {
                 Console.WriteLine(word[i]);
             }
