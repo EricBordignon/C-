@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ifStatements_cont.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ifStatements_cont.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ifStatements_cont.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ifStatements_cont.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ifStatements_cont.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ref\ifStatements_cont.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\bin\Debug\net5.0\ifStatements_cont.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ref\ifStatements_cont.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements_cont\ifStatements_cont\obj\Debug\net5.0\ifStatements_cont.genruntimeconfig.cache

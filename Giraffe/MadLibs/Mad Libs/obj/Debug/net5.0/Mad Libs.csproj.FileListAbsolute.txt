@@ -1,0 +1,15 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\Mad Libs.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\Mad Libs.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\Mad Libs.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\Mad Libs.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\Mad Libs.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\ref\Mad Libs.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\bin\Debug\net5.0\Mad Libs.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\ref\Mad Libs.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\MadLibs\Mad Libs\obj\Debug\net5.0\Mad Libs.genruntimeconfig.cache

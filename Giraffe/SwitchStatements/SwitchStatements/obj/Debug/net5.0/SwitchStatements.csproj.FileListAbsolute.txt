@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\ref\SwitchStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache

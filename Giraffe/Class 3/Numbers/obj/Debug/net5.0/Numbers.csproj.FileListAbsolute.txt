@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 3\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\ref\GuessingGame.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\ref\GuessingGame.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.genruntimeconfig.cache

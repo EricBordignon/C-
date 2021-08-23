@@ -1,0 +1,15 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\Return Statement.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\Return Statement.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\Return Statement.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\Return Statement.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\Return Statement.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\ref\Return Statement.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\bin\Debug\net5.0\Return Statement.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\ref\Return Statement.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\RetrunStatement\Return Statement\obj\Debug\net5.0\Return Statement.genruntimeconfig.cache

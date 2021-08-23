@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\Class4.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\Class4.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\Class4.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\Class4.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\Class4.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\ref\Class4.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\bin\Debug\net5.0\Class4.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\ref\Class4.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Class 4\Class4\obj\Debug\net5.0\Class4.genruntimeconfig.cache

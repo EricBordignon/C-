@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache

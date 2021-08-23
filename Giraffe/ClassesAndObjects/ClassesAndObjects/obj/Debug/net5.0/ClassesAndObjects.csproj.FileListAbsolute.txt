@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ClassesAndObjects\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.genruntimeconfig.cache

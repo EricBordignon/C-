@@ -1,0 +1,15 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache

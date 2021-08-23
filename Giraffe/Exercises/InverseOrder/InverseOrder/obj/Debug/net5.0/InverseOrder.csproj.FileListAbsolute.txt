@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\InverseOrder.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\InverseOrder.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\InverseOrder.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\InverseOrder.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\InverseOrder.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\ref\InverseOrder.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\bin\Debug\net5.0\InverseOrder.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\ref\InverseOrder.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Exercises\InverseOrder\InverseOrder\obj\Debug\net5.0\InverseOrder.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

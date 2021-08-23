@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ifStatements.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ifStatements.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ifStatements.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ifStatements.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ifStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ref\ifStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\bin\Debug\net5.0\ifStatements.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ref\ifStatements.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\ifStatements\ifStatements\obj\Debug\net5.0\ifStatements.genruntimeconfig.cache

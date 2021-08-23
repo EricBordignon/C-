@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\Methods.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\Methods.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\bin\Debug\net5.0\Methods.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
