@@ -1,0 +1,16 @@
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.csproj.AssemblyReference.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.AssemblyInfoInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.AssemblyInfo.cs
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\Yahtzee.exe
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\Yahtzee.deps.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\Yahtzee.runtimeconfig.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\Yahtzee.runtimeconfig.dev.json
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\Yahtzee.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\ref\Yahtzee.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\bin\Debug\net5.0\Yahtzee.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\ref\Yahtzee.dll
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.pdb
+C:\workspace\C#\Inicio\Giraffe\Giraffe\Yahtzee\obj\Debug\net5.0\Yahtzee.genruntimeconfig.cache
